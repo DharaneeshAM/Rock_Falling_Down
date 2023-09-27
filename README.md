@@ -1,6 +1,13 @@
 # DHARANEESH
 # _Rain In Ocean_
 
+<table>
+  <tr>
+    <td valign="top"><img src="./rock%20.png"/></td>
+    <td valign="top"><img src="./rock%20colur.png"/></td>
+  </tr>
+</table>
+
 <div style="text-align:center"><img src="./ezgif.com-video-to-gif.gif" /></div>
 
 [![N|Solid](https://download.blender.org/branding/blender_logo.png)](https://nodesource.com/products/nsolid)
